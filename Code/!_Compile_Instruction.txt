@@ -1,0 +1,9 @@
+/* Si "Makefile" est installé */
+make
+./Frequency_analysis_PALAHIN_Dmytro
+
+************************************
+
+/* Si "Makefile" n'est pas installé */
+gcc Frequency_analysis_PALAHIN_Dmytro.c -Wall -lm -o Frequency_analysis_PALAHIN_Dmytro
+./Frequency_analysis_PALAHIN_Dmytro

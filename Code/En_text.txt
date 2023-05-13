@@ -1,0 +1,18 @@
+A successful cybersecurity approach has multiple layers of protection spread across\
+the computers, networks, programs, or data that one intends to keep safe. In an organization,\
+the people, processes, and technology must all complement one another to create an effective\
+defense from cyber attacks. A unified threat management system can automate integrations across\
+select Cisco Security products and accelerate key security operations functions detection,\
+investigation, and remediation. Users must understand and comply with basic data security\
+principles like choosing strong passwords, being wary of attachments in email, and backing\
+up data. Learn more about basic cybersecurity principles. In today’s connected world, \
+everyone benefits from advanced cyberdefense programs. At an individual level, \
+a cybersecurity attack can result in everything from identity theft, to extortion attempts,\
+to the loss of important data like family photos. Everyone relies on critical infrastructure\
+like power plants, hospitals, and financial service companies. \
+Securing these and other organizations is essential to keeping our society functioning.\
+Everyone also benefits from the work of cyberthreat researchers, like the team of  threat\
+researchers at Talos, who investigate new and emerging threats and cyber attack strategies. \
+They reveal new vulnerabilities, educate the public on the importance of cybersecurity,\
+and strengthen open source tools. Their work makes the Internet safer for everyone.
+Junior queen don't like jokes.

@@ -1,0 +1,18 @@
+    Vous avez vu ces phénomènes en optique géométrique  lorsqu'on envoie de la lumière sur un
+morceau de verre (comme un prisme, ou une lentille), une partie pénètre dans le verre, une partie
+revient vers la source, ce qui correspond respectivement à la lumière réfractée ou transmise, et à la lumière réfléchie. Nous verrons l'an prochain au S comment calculer la proportion de lumière
+réfléchie et de lumière transmise. Nous allons faire sur l'exemple de la corde un calcul complètement similaire.
+Ainsi en optique les phénomènes de réflexion/transmission découlent d'un changement de milieu : la lumière se propage dans l'air, puis brutalement elle doit se propager dans le verre.
+Ici nous allons voir ce qui se passe lorsqu'une onde se propageant sur une première corde de masse linéique 
+ rencontre soudainement une deuxième code de mase linéique 
+. Par exemple cette
+situation est rencontrée lorsqu'on attache une corde en nylon avec une corde en acier.
+En acoustique le problème se rencontre par exemple lorsqu'une onde se propage dans un tuyau sonore
+dont le diamètre varie brutalement.
+En résumé : chaque fois qu'on a une interface entre deux milieux différents, entre un milieu 1 et un
+milieu , une onde progressive arrivant à l'interface depuis le milieu  va en partie se réfléchir (revenir
+vers sa source dans le milieu ), en partie se transmettre dans le milieu .
+Le but de ce paragraphe est de voir comment on raisonne sur l'exemple de la corde vibrante pour
+calculer l'amplitude de l'onde réfléchie, et celle de l'onde transmise, en fonction de celle de l'onde
+incidente.
+Je mange kacha chaque week-end)

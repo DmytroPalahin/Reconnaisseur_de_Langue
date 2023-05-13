@@ -1,0 +1,50 @@
+
+
+Part I *************************************************************************************
+Calculation of the Euclidean measure of the distance between the probability of the appearance of letters in texts 
+
+Euclidean measure for English and TEST:  0.088139
+Euclidean measure for France and TEST:  0.050907
+
+The Answer for Part I ----->: Input text is France
+
+
+
+Part II ***********************************************************************************
+Calculation of the product of the probabilities of letters in the English text
+Number of letters in TEST text: 3 
+
+Product of the probabilities of letters in the TEST text as English: 0.01015972159802913700 
+Product of the probabilities of letters in the TEST text as France : 0.01711834408342838300 
+
+The Answer for Part II -----> : Input text is France
+
+
+
+Part III ***********************************************************************************
+Naive Bayesian text classifier
+
+The probability of letters in TEST as English text  '0.474148'
+The probability of letters in TEST as France text   '0.525852'
+
+The Answer for Part III -----> : Input text is France
+
+
+
+Part IV ***********************************************************************************
+Calculation of the Euclidean measure of the distance between the probability of the BIGGRAMS in texts 
+
+Euclidean measure for English and TEST BIGRAMMS:  0.0773938
+Euclidean measure for France and TEST BIGRAMMS:  0.0619283
+
+The Answer for Part IV -----> : Input text is France
+
+
+
+
+Part V ***********************************************************************************
+Neural Network 
+The Answer for Part V -----> : Input text is France, probability of text = 0.845
+
+
+The end :-)

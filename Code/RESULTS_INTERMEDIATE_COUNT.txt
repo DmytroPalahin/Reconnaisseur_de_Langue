@@ -1,0 +1,1250 @@
+Text_orig_en : 
+A successful cybersecurity approach has multiple layers of protection spread across\
+the computers, networks, programs, or data that one intends to keep safe. In an organization,\
+the people, processes, and technology must all complement one another to create an effective\
+defense from cyber attacks. A unified threat management system can automate integrations across\
+select Cisco Security products and accelerate key security operations functions detection,\
+investigation, and remediation. Users must understand and comply with basic data security\
+principles like choosing strong passwords, being wary of attachments in email, and backing\
+up data. Learn more about basic cybersecurity principles. In today’s connected world, \
+everyone benefits from advanced cyberdefense programs. At an individual level, \
+a cybersecurity attack can result in everything from identity theft, to extortion attempts,\
+to the loss of important data like family photos. Everyone relies on critical infrastructure\
+like power plants, hospitals, and financial service companies. \
+Securing these and other organizations is essential to keeping our society functioning.\
+Everyone also benefits from the work of cyberthreat researchers, like the team of  threat\
+researchers at Talos, who investigate new and emerging threats and cyber attack strategies. \
+They reveal new vulnerabilities, educate the public on the importance of cybersecurity,\
+and strengthen open source tools. Their work makes the Internet safer for everyone.
+Junior queen don't like jokes.
+
+
+Text_orig_fr : 
+    Vous avez vu ces phénomènes en optique géométrique  lorsqu'on envoie de la lumière sur un
+morceau de verre (comme un prisme, ou une lentille), une partie pénètre dans le verre, une partie
+revient vers la source, ce qui correspond respectivement à la lumière réfractée ou transmise, et à la lumière réfléchie. Nous verrons l'an prochain au S comment calculer la proportion de lumière
+réfléchie et de lumière transmise. Nous allons faire sur l'exemple de la corde un calcul complètement similaire.
+Ainsi en optique les phénomènes de réflexion/transmission découlent d'un changement de milieu : la lumière se propage dans l'air, puis brutalement elle doit se propager dans le verre.
+Ici nous allons voir ce qui se passe lorsqu'une onde se propageant sur une première corde de masse linéique 
+ rencontre soudainement une deuxième code de mase linéique 
+. Par exemple cette
+situation est rencontrée lorsqu'on attache une corde en nylon avec une corde en acier.
+En acoustique le problème se rencontre par exemple lorsqu'une onde se propage dans un tuyau sonore
+dont le diamètre varie brutalement.
+En résumé : chaque fois qu'on a une interface entre deux milieux différents, entre un milieu 1 et un
+milieu , une onde progressive arrivant à l'interface depuis le milieu  va en partie se réfléchir (revenir
+vers sa source dans le milieu ), en partie se transmettre dans le milieu .
+Le but de ce paragraphe est de voir comment on raisonne sur l'exemple de la corde vibrante pour
+calculer l'amplitude de l'onde réfléchie, et celle de l'onde transmise, en fonction de celle de l'onde
+incidente.
+Je mange kacha chaque week-end)
+
+
+Text_orig_test : 
+En 1987, le Premier ministre Jacques Chirac confie au député Michel Péricard une mission
+ d'étude sur la politique audiovisuelle de la France. Le rapport conclut à la désorganisation,
+ le manque d'efficacité et la dispersion des acteurs de l'audiovisuel extérieur, 
+qui compte RFI depuis 1975, et TV5 Monde et RFO depuis 1982. Après le changement 
+de majorité intervenu en 1988, le nouveau Premier ministre Michel Rocard commande 
+un nouveau rapport à Alain Decaux qui aboutit à la création de Canal France 
+International (CFI), une banque de programmes en français destinés à l'étranger et en
+ particulier l'Afrique, qui se voit doublée d'une chaîne de télévision pendant quelque temps2,3.
+La guerre du Golfe de 1990 à 1991, couverte en direct par CNN International, révèle la puissance
+ de la chaîne américaine, créée dix ans plus tôt. Cette dernière montre qu'une chaîne d'information en continu peut influencer l'opinion publique et politique : il figurerait le « décrié » effet CNN (en)4. Des hommes politiques demandent la création d'un « CNN à la française » et le député Philippe Séguin rappelle que la Seconde Guerre mondiale a mené à la création de l'Agence France-Presse (AFP) en 19442. Plusieurs projets voient le jour en parallèle. En 1993, l'Union européenne de radio-télévision (UER) lance sa chaîne d'information européenne multilingue nommée Euronews5,6. L'année suivante, le groupe TF1 lance la première chaîne d'info en continu en France : La Chaîne Info (LCI)7.
+En 1997, après 24 rapports en dix ans, le président de RFI, Jean-Paul Cluzel, 
+et le journaliste Michel Meyer rendent un nouveau rapport au Premier ministre Alain Juppé. 
+Ils proposent la mise en place d'une holding, baptisée Téléfi, regroupant les acteurs de
+ l'audiovisuel extérieur (TV5 Monde, RFI et CFI), ainsi que la création d'une chaîne 
+française d'information internationale. Mais, avec le retour de la gauche au pouvoir 
+à la suite des élections législatives de 1997, le projet est abandonné. Le nouveau 
+ministre des Affaires étrangères, Hubert Védrine, préfère développer les instruments existants, 
+notamment TV5 Monde2,8
+
+
+Les partisans d'une diffusion en France argumentent que la chaîne est financée par 
+les contribuables français et donc que ces derniers ont le droit de la recevoir.
+ De plus, les Français peuvent vouloir s'informer dans leur langue natale de l'actualité internationale96.
+ Ainsi, lors de son lancement en 2006, la chaîne est diffusée en France, mais uniquement sur le câble, 
+le satellite, l'ADSL et Internet26.
+La présidente de France Médias Monde avance comme autre argument qu'il est difficile de convaincre
+ des distributeurs internationaux de diffuser France 24 lorsque cette dernière n'est même pas 
+connue dans son propre pays98. Finalement, le 23 septembre 2014, France 24 commence sa diffusion 
+sur la TNT en France, mais uniquement dans la région Île-de-France
+
+
+Modified English text :
+a successful cybersecurity approach has multiple layers of protection spread across the computers networks programs or data that one intends to keep safe in an organization the people processes and technology must all complement one another to create an effective defense from cyber attacks a unified threat management system can automate integrations across select cisco security products and accelerate key security operations functions detection investigation and remediation users must understand and comply with basic data security principles like choosing strong passwords being wary of attachments in email and backing up data learn more about basic cybersecurity principles in todays connected world  everyone benefits from advanced cyberdefense programs at an individual level  a cybersecurity attack can result in everything from identity theft to extortion attempts to the loss of important data like family photos everyone relies on critical infrastructure like power plants hospitals and financial service companies  securing these and other organizations is essential to keeping our society functioning everyone also benefits from the work of cyberthreat researchers like the team of  threat researchers at talos who investigate new and emerging threats and cyber attack strategies  they reveal new vulnerabilities educate the public on the importance of cybersecurity and strengthen open source tools their work makes the internet safer for everyone junior queen dont like jokes
+
+
+Frequency analysis of letters in Modified English text
+Number of symbols in English : 1493;     Number of letters : 1274 
+letter 'a' -  105 times;              prob: 0.082418
+letter 'b' -   17 times;              prob: 0.013344
+letter 'c' -   66 times;              prob: 0.051805
+letter 'd' -   35 times;              prob: 0.027473
+letter 'e' -  170 times;              prob: 0.133438
+letter 'f' -   27 times;              prob: 0.021193
+letter 'g' -   21 times;              prob: 0.016484
+letter 'h' -   32 times;              prob: 0.025118
+letter 'i' -   87 times;              prob: 0.068289
+letter 'j' -    2 times;              prob: 0.001570
+letter 'k' -   17 times;              prob: 0.013344
+letter 'l' -   41 times;              prob: 0.032182
+letter 'm' -   29 times;              prob: 0.022763
+letter 'n' -   97 times;              prob: 0.076138
+letter 'o' -   90 times;              prob: 0.070644
+letter 'p' -   33 times;              prob: 0.025903
+letter 'q' -    1 times;              prob: 0.000785
+letter 'r' -   94 times;              prob: 0.073783
+letter 's' -   92 times;              prob: 0.072214
+letter 't' -  125 times;              prob: 0.098116
+letter 'u' -   34 times;              prob: 0.026688
+letter 'v' -   14 times;              prob: 0.010989
+letter 'w' -   11 times;              prob: 0.008634
+letter 'x' -    1 times;              prob: 0.000785
+letter 'y' -   31 times;              prob: 0.024333
+letter 'z' -    2 times;              prob: 0.001570
+
+
+
+Modified France text :
+    vous avez vu ces phenomenes en optique geometrique  lorsquon envoie de la lumiere sur un morceau de verre comme un prisme ou une lentille une partie penetre dans le verre une partie revient vers la source ce qui correspond respectivement a la lumiere refractee ou transmise et a la lumiere reflechie nous verrons lan prochain au s comment calculer la proportion de lumiere reflechie et de lumiere transmise nous allons faire sur lexemple de la corde un calcul completement similaire ainsi en optique les phenomenes de reflexiontransmission decoulent dun changement de milieu  la lumiere se propage dans lair puis brutalement elle doit se propager dans le verre ici nous allons voir ce qui se passe lorsquune onde se propageant sur une premiere corde de masse lineique   rencontre soudainement une deuxieme code de mase lineique   par exemple cette situation est rencontree lorsquon attache une corde en nylon avec une corde en acier en acoustique le probleme se rencontre par exemple lorsquune onde se propage dans un tuyau sonore dont le diametre varie brutalement en resume  chaque fois quon a une interface entre deux milieux differents entre un milieu  et un milieu  une onde progressive arrivant a linterface depuis le milieu  va en partie se reflechir revenir vers sa source dans le milieu  en partie se transmettre dans le milieu  le but de ce paragraphe est de voir comment on raisonne sur lexemple de la corde vibrante pour calculer lamplitude de londe reflechie et celle de londe transmise en fonction de celle de londe incidente je mange kacha chaque weekend
+
+
+Frequency analysis of letters in Modified France text
+Number of symbols in France : 1573;     Number of letters : 1300 
+letter 'a' -   82 times;              prob: 0.063077
+letter 'b' -    5 times;              prob: 0.003846
+letter 'c' -   51 times;              prob: 0.039231
+letter 'd' -   48 times;              prob: 0.036923
+letter 'e' -  263 times;              prob: 0.202308
+letter 'f' -   13 times;              prob: 0.010000
+letter 'g' -    9 times;              prob: 0.006923
+letter 'h' -   13 times;              prob: 0.010000
+letter 'i' -   86 times;              prob: 0.066154
+letter 'j' -    1 times;              prob: 0.000769
+letter 'k' -    2 times;              prob: 0.001538
+letter 'l' -   81 times;              prob: 0.062308
+letter 'm' -   50 times;              prob: 0.038462
+letter 'n' -  110 times;              prob: 0.084615
+letter 'o' -   75 times;              prob: 0.057692
+letter 'p' -   40 times;              prob: 0.030769
+letter 'q' -   15 times;              prob: 0.011538
+letter 'r' -  106 times;              prob: 0.081538
+letter 's' -   73 times;              prob: 0.056154
+letter 't' -   64 times;              prob: 0.049231
+letter 'u' -   80 times;              prob: 0.061538
+letter 'v' -   21 times;              prob: 0.016154
+letter 'w' -    1 times;              prob: 0.000769
+letter 'x' -    8 times;              prob: 0.006154
+letter 'y' -    2 times;              prob: 0.001538
+letter 'z' -    1 times;              prob: 0.000769
+
+
+
+Modified TEST :
+en  le premier ministre jacques chirac confie au depute michel pericard une mission  detude sur la politique audiovisuelle de la france le rapport conclut a la desorganisation  le manque defficacite et la dispersion des acteurs de laudiovisuel exterieur  qui compte rfi depuis  et tv monde et rfo depuis  apres le changement  de majorite intervenu en  le nouveau premier ministre michel rocard commande  un nouveau rapport a alain decaux qui aboutit a la creation de canal france  international cfi une banque de programmes en francais destines a letranger et en  particulier lafrique qui se voit doublee dune chaine de television pendant quelque temps la guerre du golfe de  a  couverte en direct par cnn international revele la puissance  de la chaine americaine creee dix ans plus tot cette derniere montre quune chaine dinformation en continu peut influencer lopinion publique et politique  il figurerait le  decrie u effet cnn en des hommes politiques demandent la creation dun  cnn a la francaise u et le depute philippe seguin rappelle que la seconde guerre mondiale a mene a la creation de lagence francepresse afp en  plusieurs projets voient le jour en parallele en  lunion europeenne de radiotelevision uer lance sa chaine dinformation europeenne multilingue nommee euronews lannee suivante le groupe tf lance la premiere chaine dinfo en continu en france  la chaine info lci en  apres  rapports en dix ans le president de rfi jeanpaul cluzel  et le journaliste michel meyer rendent un nouveau rapport au premier ministre alain juppe  ils proposent la mise en place dune holding baptisee telefi regroupant les acteurs de  laudiovisuel exterieur tv monde rfi et cfi ainsi que la creation dune chaine  francaise dinformation internationale mais avec le retour de la gauche au pouvoir  a la suite des elections legislatives de  le projet est abandonne le nouveau  ministre des affaires etrangeres hubert vedrine prefere developper les instruments existants  notamment tv monde   les partisans dune diffusion en france argumentent que la chaine est financee par  les contribuables francais et donc que ces derniers ont le droit de la recevoir  de plus les francais peuvent vouloir sinformer dans leur langue natale de lactualite internationale  ainsi lors de son lancement en  la chaine est diffusee en france mais uniquement sur le cable  le satellite ladsl et internet la presidente de france medias monde avance comme autre argument quil est difficile de convaincre  des distributeurs internationaux de diffuser france  lorsque cette derniere nest meme pas  connue dans son propre pays finalement le  septembre  france  commence sa diffusion  sur la tnt en france mais uniquement dans la region ledefrance
+
+
+Frequency analysis of letters in Modified TEST
+Number of symbols in TEST : 2715;     Number of letters : 2247 
+letter 'a' -  192 times;              prob: 0.085447
+letter 'b' -   12 times;              prob: 0.005340
+letter 'c' -   92 times;              prob: 0.040943
+letter 'd' -   92 times;              prob: 0.040943
+letter 'e' -  390 times;              prob: 0.173565
+letter 'f' -   55 times;              prob: 0.024477
+letter 'g' -   21 times;              prob: 0.009346
+letter 'h' -   19 times;              prob: 0.008456
+letter 'i' -  183 times;              prob: 0.081442
+letter 'j' -    8 times;              prob: 0.003560
+letter 'k' -    0 times;              prob: 0.000000
+letter 'l' -  129 times;              prob: 0.057410
+letter 'm' -   61 times;              prob: 0.027147
+letter 'n' -  220 times;              prob: 0.097908
+letter 'o' -  106 times;              prob: 0.047174
+letter 'p' -   71 times;              prob: 0.031598
+letter 'q' -   22 times;              prob: 0.009791
+letter 'r' -  157 times;              prob: 0.069871
+letter 's' -  117 times;              prob: 0.052069
+letter 't' -  136 times;              prob: 0.060525
+letter 'u' -  125 times;              prob: 0.055630
+letter 'v' -   28 times;              prob: 0.012461
+letter 'w' -    1 times;              prob: 0.000445
+letter 'x' -    7 times;              prob: 0.003115
+letter 'y' -    2 times;              prob: 0.000890
+letter 'z' -    1 times;              prob: 0.000445
+
+
+
+Part I *************************************************************************************
+Calculation of the Euclidean measure of the distance between the probability of the appearance of letters in texts 
+
+Euclidean measure for English and TEST:  0.088139
+Euclidean measure for France and TEST:  0.050907
+
+The Answer for Part I ----->: Input text is France
+
+
+
+Part II ***********************************************************************************
+Calculation of the product of the probabilities of letters in the English text
+Number of letters in TEST text: 3 
+
+Product of the probabilities of letters in the TEST text as English: 0.01015972159802913700 
+Product of the probabilities of letters in the TEST text as France : 0.01711834408342838300 
+
+The Answer for Part II -----> : Input text is France
+
+
+
+Part III ***********************************************************************************
+Naive Bayesian text classifier
+
+The probability of letters in TEST as English text  '0.474148'
+The probability of letters in TEST as France text   '0.525852'
+
+The Answer for Part III -----> : Input text is France
+
+
+
+Method of TWO BIGGRAMS ********************************************************************* :
+
+The array of words from TEST text -------> :
+en
+
+le
+premier
+ministre
+jacques
+chirac
+confie
+au
+depute
+michel
+pericard
+une
+mission
+
+detude
+sur
+la
+politique
+audiovisuelle
+de
+la
+france
+le
+rapport
+conclut
+a
+la
+desorganisation
+
+le
+manque
+defficacite
+et
+la
+dispersion
+des
+acteurs
+de
+laudiovisuel
+exterieur
+
+qui
+compte
+rfi
+depuis
+
+et
+tv
+monde
+et
+rfo
+depuis
+
+apres
+le
+changement
+
+de
+majorite
+intervenu
+en
+
+le
+nouveau
+premier
+ministre
+michel
+rocard
+commande
+
+un
+nouveau
+rapport
+a
+alain
+decaux
+qui
+aboutit
+a
+la
+creation
+de
+canal
+france
+
+international
+cfi
+une
+banque
+de
+programmes
+en
+francais
+destines
+a
+letranger
+et
+en
+
+particulier
+lafrique
+qui
+se
+voit
+doublee
+dune
+chaine
+de
+television
+pendant
+quelque
+temps
+la
+guerre
+du
+golfe
+de
+
+a
+
+couverte
+en
+direct
+par
+cnn
+international
+revele
+la
+puissance
+
+de
+la
+chaine
+americaine
+creee
+dix
+ans
+plus
+tot
+cette
+derniere
+montre
+quune
+chaine
+dinformation
+en
+continu
+peut
+influencer
+lopinion
+publique
+et
+politique
+
+il
+figurerait
+le
+
+decrie
+u
+effet
+cnn
+en
+des
+hommes
+politiques
+demandent
+la
+creation
+dun
+
+cnn
+a
+la
+francaise
+u
+et
+le
+depute
+philippe
+seguin
+rappelle
+que
+la
+seconde
+guerre
+mondiale
+a
+mene
+a
+la
+creation
+de
+lagence
+francepresse
+afp
+en
+
+plusieurs
+projets
+voient
+le
+jour
+en
+parallele
+en
+
+lunion
+europeenne
+de
+radiotelevision
+uer
+lance
+sa
+chaine
+dinformation
+europeenne
+multilingue
+nommee
+euronews
+lannee
+suivante
+le
+groupe
+tf
+lance
+la
+premiere
+chaine
+dinfo
+en
+continu
+en
+france
+
+la
+chaine
+info
+lci
+en
+
+apres
+
+rapports
+en
+dix
+ans
+le
+president
+de
+rfi
+jeanpaul
+cluzel
+
+et
+le
+journaliste
+michel
+meyer
+rendent
+un
+nouveau
+rapport
+au
+premier
+ministre
+alain
+juppe
+
+ils
+proposent
+la
+mise
+en
+place
+dune
+holding
+baptisee
+telefi
+regroupant
+les
+acteurs
+de
+
+laudiovisuel
+exterieur
+tv
+monde
+rfi
+et
+cfi
+ainsi
+que
+la
+creation
+dune
+chaine
+
+francaise
+dinformation
+internationale
+mais
+avec
+le
+retour
+de
+la
+gauche
+au
+pouvoir
+
+a
+la
+suite
+des
+elections
+legislatives
+de
+
+le
+projet
+est
+abandonne
+le
+nouveau
+
+ministre
+des
+affaires
+etrangeres
+hubert
+vedrine
+prefere
+developper
+les
+instruments
+existants
+
+notamment
+tv
+monde
+
+
+les
+partisans
+dune
+diffusion
+en
+france
+argumentent
+que
+la
+chaine
+est
+financee
+par
+
+les
+contribuables
+francais
+et
+donc
+que
+ces
+derniers
+ont
+le
+droit
+de
+la
+recevoir
+
+de
+plus
+les
+francais
+peuvent
+vouloir
+sinformer
+dans
+leur
+langue
+natale
+de
+lactualite
+internationale
+
+ainsi
+lors
+de
+son
+lancement
+en
+
+la
+chaine
+est
+diffusee
+en
+france
+mais
+uniquement
+sur
+le
+cable
+
+le
+satellite
+ladsl
+et
+internet
+la
+presidente
+de
+france
+medias
+monde
+avance
+comme
+autre
+argument
+quil
+est
+difficile
+de
+convaincre
+
+des
+distributeurs
+internationaux
+de
+diffuser
+france
+
+lorsque
+cette
+derniere
+nest
+meme
+pas
+
+connue
+dans
+son
+propre
+pays
+finalement
+le
+
+septembre
+
+france
+
+commence
+sa
+diffusion
+
+sur
+la
+tnt
+en
+france
+mais
+uniquement
+dans
+la
+region
+ledefrance
+
+All BIGRAMMS from TEST text ---------> : 
+
+en       le    pr re em mi ie er    mi in ni is st tr re    ja ac cq qu ue es    ch hi ir ra ac    co on nf fi ie    au    de ep pu ut te    mi ic ch he el    pe er ri ic ca ar rd    un ne    mi is ss si io on       de et tu ud de    su ur    la    po ol li it ti iq qu ue    au ud di io ov vi is su ue el ll le    de    la    fr ra an nc ce    le    ra ap pp po or rt    co on nc cl lu ut       la    de es so or rg ga an ni is sa at ti io on       le    ma an nq qu ue    de ef ff fi ic ca ac ci it te    et    la    di is sp pe er rs si io on    de es    ac ct te eu ur rs    de    la au ud di io ov vi is su ue el    ex xt te er ri ie eu ur       qu ui    co om mp pt te    rf fi    de ep pu ui is       et    tv    mo on nd de    et    rf fo    de ep pu ui is       ap pr re es    le    ch ha an ng ge em me en nt       de    ma aj jo or ri it te    in nt te er rv ve en nu    en       le    no ou uv ve ea au    pr re em mi ie er    mi in ni is st tr re    mi ic ch he el    ro oc ca ar rd    co om mm ma an nd de       un    no ou uv ve ea au    ra ap pp po or rt       al la ai in    de ec ca au ux    qu ui    ab bo ou ut ti it       la    cr re ea at ti io on    de    ca an na al    fr ra an nc ce       in nt te er rn na at ti io on na al    cf fi    un ne    ba an nq qu ue    de    pr ro og gr ra am mm me es    en    fr ra an nc ca ai is    de es st ti in ne es       le et tr ra an ng ge er    et    en       pa ar rt ti ic cu ul li ie er    la af fr ri iq qu ue    qu ui    se    vo oi it    do ou ub bl le ee    du un ne    ch ha ai in ne    de    te el le ev vi is si io on    pe en nd da an nt    qu ue el lq qu ue    te em mp ps    la    gu ue er rr re    du    go ol lf fe    de             co ou uv ve er rt te    en    di ir re ec ct    pa ar    cn nn    in nt te er rn na at ti io on na al    re ev ve el le    la    pu ui is ss sa an nc ce       de    la    ch ha ai in ne    am me er ri ic ca ai in ne    cr re ee ee    di ix    an ns    pl lu us    to ot    ce et tt te    de er rn ni ie er re    mo on nt tr re    qu uu un ne    ch ha ai in ne    di in nf fo or rm ma at ti io on    en    co on nt ti in nu    pe eu ut    in nf fl lu ue en nc ce er    lo op pi in ni io on    pu ub bl li iq qu ue    et    po ol li it ti iq qu ue       il    fi ig gu ur re er ra ai it    le       de ec cr ri ie       ef ff fe et    cn nn    en    de es    ho om mm me es    po ol li it ti iq qu ue es    de em ma an nd de en nt    la    cr re ea at ti io on    du un       cn nn       la    fr ra an nc ca ai is se       et    le    de ep pu ut te    ph hi il li ip pp pe    se eg gu ui in    ra ap pp pe el ll le    qu ue    la    se ec co on nd de    gu ue er rr re    mo on nd di ia al le       me en ne       la    cr re ea at ti io on    de    la ag ge en nc ce    fr ra an nc ce ep pr re es ss se    af fp    en       pl lu us si ie eu ur rs    pr ro oj je et ts    vo oi ie en nt    le    jo ou ur    en    pa ar ra al ll le el le    en       lu un ni io on    eu ur ro op pe ee en nn ne    de    ra ad di io ot te el le ev vi is si io on    ue er    la an nc ce    sa    ch ha ai in ne    di in nf fo or rm ma at ti io on    eu ur ro op pe ee en nn ne    mu ul lt ti il li in ng gu ue    no om mm me ee    eu ur ro on ne ew ws    la an nn ne ee    su ui iv va an nt te    le    gr ro ou up pe    tf    la an nc ce    la    pr re em mi ie er re    ch ha ai in ne    di in nf fo    en    co on nt ti in nu    en    fr ra an nc ce       la    ch ha ai in ne    in nf fo    lc ci    en       ap pr re es       ra ap pp po or rt ts    en    di ix    an ns    le    pr re es si id de en nt    de    rf fi    je ea an np pa au ul    cl lu uz ze el       et    le    jo ou ur rn na al li is st te    mi ic ch he el    me ey ye er    re en nd de en nt    un    no ou uv ve ea au    ra ap pp po or rt    au    pr re em mi ie er    mi in ni is st tr re    al la ai in    ju up pp pe       il ls    pr ro op po os se en nt    la    mi is se    en    pl la ac ce    du un ne    ho ol ld di in ng    ba ap pt ti is se ee    te el le ef fi    re eg gr ro ou up pa an nt    le es    ac ct te eu ur rs    de       la au ud di io ov vi is su ue el    ex xt te er ri ie eu ur    tv    mo on nd de    rf fi    et    cf fi    ai in ns si    qu ue    la    cr re ea at ti io on    du un ne    ch ha ai in ne       fr ra an nc ca ai is se    di in nf fo or rm ma at ti io on    in nt te er rn na at ti io on na al le    ma ai is    av ve ec    le    re et to ou ur    de    la    ga au uc ch he    au    po ou uv vo oi ir          la    su ui it te    de es    el le ec ct ti io on ns    le eg gi is sl la at ti iv ve es    de       le    pr ro oj je et    es st    ab ba an nd do on nn ne    le    no ou uv ve ea au       mi in ni is st tr re    de es    af ff fa ai ir re es    et tr ra an ng ge er re es    hu ub be er rt    ve ed dr ri in ne    pr re ef fe er re    de ev ve el lo op pp pe er    le es    in ns st tr ru um me en nt ts    ex xi is st ta an nt ts       no ot ta am mm me en nt    tv    mo on nd de          le es    pa ar rt ti is sa an ns    du un ne    di if ff fu us si io on    en    fr ra an nc ce    ar rg gu um me en nt te en nt    qu ue    la    ch ha ai in ne    es st    fi in na an nc ce ee    pa ar       le es    co on nt tr ri ib bu ua ab bl le es    fr ra an nc ca ai is    et    do on nc    qu ue    ce es    de er rn ni ie er rs    on nt    le    dr ro oi it    de    la    re ec ce ev vo oi ir       de    pl lu us    le es    fr ra an nc ca ai is    pe eu uv ve en nt    vo ou ul lo oi ir    si in nf fo or rm me er    da an ns    le eu ur    la an ng gu ue    na at ta al le    de    la ac ct tu ua al li it te    in nt te er rn na at ti io on na al le       ai in ns si    lo or rs    de    so on    la an nc ce em me en nt    en       la    ch ha ai in ne    es st    di if ff fu us se ee    en    fr ra an nc ce    ma ai is    un ni iq qu ue em me en nt    su ur    le    ca ab bl le       le    sa at te el ll li it te    la ad ds sl    et    in nt te er rn ne et    la    pr re es si id de en nt te    de    fr ra an nc ce    me ed di ia as    mo on nd de    av va an nc ce    co om mm me    au ut tr re    ar rg gu um me en nt    qu ui il    es st    di if ff fi ic ci il le    de    co on nv va ai in nc cr re       de es    di is st tr ri ib bu ut te eu ur rs    in nt te er rn na at ti io on na au ux    de    di if ff fu us se er    fr ra an nc ce       lo or rs sq qu ue    ce et tt te    de er rn ni ie er re    ne es st    me em me    pa as       co on nn nu ue    da an ns    so on    pr ro op pr re    pa ay ys    fi in na al le em me en nt    le       se ep pt te em mb br re       fr ra an nc ce       co om mm me en nc ce    sa    di if ff fu us si io on       su ur    la    tn nt    en    fr ra an nc ce    ma ai is    un ni iq qu ue em me en nt    da an ns    la    re eg gi io on    le ed de ef fr ra an nc ce    
+
+All BIGRAMMS from ALPHABET -------> : 
+
+ aa  ab  ac  ad  ae  af  ag  ah  ai  aj  ak  al  am  an  ao  ap  aq  ar  as  at  au  av  aw  ax  ay  az  ba  bb  bc  bd  be  bf  bg  bh  bi  bj  bk  bl  bm  bn  bo  bp  bq  br  bs  bt  bu  bv  bw  bx  by  bz  ca  cb  cc  cd  ce  cf  cg  ch  ci  cj  ck  cl  cm  cn  co  cp  cq  cr  cs  ct  cu  cv  cw  cx  cy  cz  da  db  dc  dd  de  df  dg  dh  di  dj  dk  dl  dm  dn  do  dp  dq  dr  ds  dt  du  dv  dw  dx  dy  dz  ea  eb  ec  ed  ee  ef  eg  eh  ei  ej  ek  el  em  en  eo  ep  eq  er  es  et  eu  ev  ew  ex  ey  ez  fa  fb  fc  fd  fe  ff  fg  fh  fi  fj  fk  fl  fm  fn  fo  fp  fq  fr  fs  ft  fu  fv  fw  fx  fy  fz  ga  gb  gc  gd  ge  gf  gg  gh  gi  gj  gk  gl  gm  gn  go  gp  gq  gr  gs  gt  gu  gv  gw  gx  gy  gz  ha  hb  hc  hd  he  hf  hg  hh  hi  hj  hk  hl  hm  hn  ho  hp  hq  hr  hs  ht  hu  hv  hw  hx  hy  hz  ia  ib  ic  id  ie  if  ig  ih  ii  ij  ik  il  im  in  io  ip  iq  ir  is  it  iu  iv  iw  ix  iy  iz  ja  jb  jc  jd  je  jf  jg  jh  ji  jj  jk  jl  jm  jn  jo  jp  jq  jr  js  jt  ju  jv  jw  jx  jy  jz  ka  kb  kc  kd  ke  kf  kg  kh  ki  kj  kk  kl  km  kn  ko  kp  kq  kr  ks  kt  ku  kv  kw  kx  ky  kz  la  lb  lc  ld  le  lf  lg  lh  li  lj  lk  ll  lm  ln  lo  lp  lq  lr  ls  lt  lu  lv  lw  lx  ly  lz  ma  mb  mc  md  me  mf  mg  mh  mi  mj  mk  ml  mm  mn  mo  mp  mq  mr  ms  mt  mu  mv  mw  mx  my  mz  na  nb  nc  nd  ne  nf  ng  nh  ni  nj  nk  nl  nm  nn  no  np  nq  nr  ns  nt  nu  nv  nw  nx  ny  nz  oa  ob  oc  od  oe  of  og  oh  oi  oj  ok  ol  om  on  oo  op  oq  or  os  ot  ou  ov  ow  ox  oy  oz  pa  pb  pc  pd  pe  pf  pg  ph  pi  pj  pk  pl  pm  pn  po  pp  pq  pr  ps  pt  pu  pv  pw  px  py  pz  qa  qb  qc  qd  qe  qf  qg  qh  qi  qj  qk  ql  qm  qn  qo  qp  qq  qr  qs  qt  qu  qv  qw  qx  qy  qz  ra  rb  rc  rd  re  rf  rg  rh  ri  rj  rk  rl  rm  rn  ro  rp  rq  rr  rs  rt  ru  rv  rw  rx  ry  rz  sa  sb  sc  sd  se  sf  sg  sh  si  sj  sk  sl  sm  sn  so  sp  sq  sr  ss  st  su  sv  sw  sx  sy  sz  ta  tb  tc  td  te  tf  tg  th  ti  tj  tk  tl  tm  tn  to  tp  tq  tr  ts  tt  tu  tv  tw  tx  ty  tz  ua  ub  uc  ud  ue  uf  ug  uh  ui  uj  uk  ul  um  un  uo  up  uq  ur  us  ut  uu  uv  uw  ux  uy  uz  va  vb  vc  vd  ve  vf  vg  vh  vi  vj  vk  vl  vm  vn  vo  vp  vq  vr  vs  vt  vu  vv  vw  vx  vy  vz  wa  wb  wc  wd  we  wf  wg  wh  wi  wj  wk  wl  wm  wn  wo  wp  wq  wr  ws  wt  wu  wv  ww  wx  wy  wz  xa  xb  xc  xd  xe  xf  xg  xh  xi  xj  xk  xl  xm  xn  xo  xp  xq  xr  xs  xt  xu  xv  xw  xx  xy  xz  ya  yb  yc  yd  ye  yf  yg  yh  yi  yj  yk  yl  ym  yn  yo  yp  yq  yr  ys  yt  yu  yv  yw  yx  yy  yz  za  zb  zc  zd  ze  zf  zg  zh  zi  zj  zk  zl  zm  zn  zo  zp  zq  zr  zs  zt  zu  zv  zw  zx  zy  zzen 
+
+Map of bigramms in TEST :
+ 0 4 7 2 0 3 1 0 25 1 0 13 3 45 0 8 0 9 2 16 15 2 0 0 1 0 3 0 0 0 1 0 0 0 0 0 0 4 0 0 1 0 0 1 0 0 2 0 0 0 0 0 12 0 0 0 25 2 0 15 3 0 0 2 0 3 13 0 1 7 0 5 1 0 0 0 0 0 4 0 0 0 53 0 0 0 21 0 0 0 0 0 3 0 0 2 1 0 6 0 0 0 0 0 9 0 7 3 10 5 4 0 0 0 0 17 13 45 0 6 0 37 32 20 12 5 1 3 1 0 1 0 0 0 3 8 0 0 12 0 0 1 0 0 7 1 0 17 0 0 4 0 0 0 0 0 2 0 0 0 4 0 0 0 2 0 0 0 0 0 1 0 0 3 0 0 8 0 0 0 0 0 10 0 0 0 4 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 2 2 8 2 14 5 1 0 0 0 0 6 0 44 27 1 7 6 30 12 0 2 0 2 0 0 1 0 0 0 3 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 39 0 1 1 45 1 0 0 10 0 0 4 0 0 5 0 1 0 1 1 7 0 0 0 0 0 10 1 0 0 21 0 0 0 13 0 0 0 7 0 6 2 0 0 0 0 1 0 0 0 0 0 15 0 28 11 27 8 6 0 12 0 0 0 0 8 6 1 2 0 10 34 4 1 0 0 0 0 0 0 1 0 0 0 1 0 6 2 0 5 6 43 0 6 0 12 1 3 14 3 0 0 0 0 9 0 0 0 12 0 0 1 1 0 0 4 0 0 9 8 0 16 1 3 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 22 0 0 0 0 0 28 0 0 2 40 4 3 0 10 0 0 0 4 10 12 0 0 2 8 8 1 1 0 0 0 0 6 0 0 0 12 0 0 0 12 0 0 2 0 0 3 1 1 0 3 14 8 0 0 0 0 0 3 0 0 0 33 1 0 0 26 0 0 0 0 1 2 0 0 11 4 2 2 3 0 0 0 0 2 3 1 4 27 0 0 0 10 0 0 4 3 13 0 3 0 17 7 7 1 7 0 2 0 1 3 0 0 0 12 0 0 0 5 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+The sum of all bigramms from TEST input text =  1822
+
+
+**************************************************************************************************************
+The array of words from English text -------> :
+a
+successful
+cybersecurity
+approach
+has
+multiple
+layers
+of
+protection
+spread
+across
+the
+computers
+networks
+programs
+or
+data
+that
+one
+intends
+to
+keep
+safe
+in
+an
+organization
+the
+people
+processes
+and
+technology
+must
+all
+complement
+one
+another
+to
+create
+an
+effective
+defense
+from
+cyber
+attacks
+a
+unified
+threat
+management
+system
+can
+automate
+integrations
+across
+select
+cisco
+security
+products
+and
+accelerate
+key
+security
+operations
+functions
+detection
+investigation
+and
+remediation
+users
+must
+understand
+and
+comply
+with
+basic
+data
+security
+principles
+like
+choosing
+strong
+passwords
+being
+wary
+of
+attachments
+in
+email
+and
+backing
+up
+data
+learn
+more
+about
+basic
+cybersecurity
+principles
+in
+todays
+connected
+world
+
+everyone
+benefits
+from
+advanced
+cyberdefense
+programs
+at
+an
+individual
+level
+
+a
+cybersecurity
+attack
+can
+result
+in
+everything
+from
+identity
+theft
+to
+extortion
+attempts
+to
+the
+loss
+of
+important
+data
+like
+family
+photos
+everyone
+relies
+on
+critical
+infrastructure
+like
+power
+plants
+hospitals
+and
+financial
+service
+companies
+
+securing
+these
+and
+other
+organizations
+is
+essential
+to
+keeping
+our
+society
+functioning
+everyone
+also
+benefits
+from
+the
+work
+of
+cyberthreat
+researchers
+like
+the
+team
+of
+
+threat
+researchers
+at
+talos
+who
+investigate
+new
+and
+emerging
+threats
+and
+cyber
+attack
+strategies
+
+they
+reveal
+new
+vulnerabilities
+educate
+the
+public
+on
+the
+importance
+of
+cybersecurity
+and
+strengthen
+open
+source
+tools
+their
+work
+makes
+the
+internet
+safer
+for
+everyone
+junior
+queen
+dont
+like
+jokes
+
+All BIGRAMMS from English text -------> : 
+
+   su uc cc ce es ss sf fu ul    cy yb be er rs se ec cu ur ri it ty    ap pp pr ro oa ac ch    ha as    mu ul lt ti ip pl le    la ay ye er rs    of    pr ro ot te ec ct ti io on    sp pr re ea ad    ac cr ro os ss    th he    co om mp pu ut te er rs    ne et tw wo or rk ks    pr ro og gr ra am ms    or    da at ta    th ha at    on ne    in nt te en nd ds    to    ke ee ep    sa af fe    in    an    or rg ga an ni iz za at ti io on    th he    pe eo op pl le    pr ro oc ce es ss se es    an nd    te ec ch hn no ol lo og gy    mu us st    al ll    co om mp pl le em me en nt    on ne    an no ot th he er    to    cr re ea at te    an    ef ff fe ec ct ti iv ve    de ef fe en ns se    fr ro om    cy yb be er    at tt ta ac ck ks       un ni if fi ie ed    th hr re ea at    ma an na ag ge em me en nt    sy ys st te em    ca an    au ut to om ma at te    in nt te eg gr ra at ti io on ns    ac cr ro os ss    se el le ec ct    ci is sc co    se ec cu ur ri it ty    pr ro od du uc ct ts    an nd    ac cc ce el le er ra at te    ke ey    se ec cu ur ri it ty    op pe er ra at ti io on ns    fu un nc ct ti io on ns    de et te ec ct ti io on    in nv ve es st ti ig ga at ti io on    an nd    re em me ed di ia at ti io on    us se er rs    mu us st    un nd de er rs st ta an nd    an nd    co om mp pl ly    wi it th    ba as si ic    da at ta    se ec cu ur ri it ty    pr ri in nc ci ip pl le es    li ik ke    ch ho oo os si in ng    st tr ro on ng    pa as ss sw wo or rd ds    be ei in ng    wa ar ry    of    at tt ta ac ch hm me en nt ts    in    em ma ai il    an nd    ba ac ck ki in ng    up    da at ta    le ea ar rn    mo or re    ab bo ou ut    ba as si ic    cy yb be er rs se ec cu ur ri it ty    pr ri in nc ci ip pl le es    in    to od da ay ys    co on nn ne ec ct te ed    wo or rl ld       ev ve er ry yo on ne    be en ne ef fi it ts    fr ro om    ad dv va an nc ce ed    cy yb be er rd de ef fe en ns se    pr ro og gr ra am ms    at    an    in nd di iv vi id du ua al    le ev ve el          cy yb be er rs se ec cu ur ri it ty    at tt ta ac ck    ca an    re es su ul lt    in    ev ve er ry yt th hi in ng    fr ro om    id de en nt ti it ty    th he ef ft    to    ex xt to or rt ti io on    at tt te em mp pt ts    to    th he    lo os ss    of    im mp po or rt ta an nt    da at ta    li ik ke    fa am mi il ly    ph ho ot to os    ev ve er ry yo on ne    re el li ie es    on    cr ri it ti ic ca al    in nf fr ra as st tr ru uc ct tu ur re    li ik ke    po ow we er    pl la an nt ts    ho os sp pi it ta al ls    an nd    fi in na an nc ci ia al    se er rv vi ic ce    co om mp pa an ni ie es       se ec cu ur ri in ng    th he es se    an nd    ot th he er    or rg ga an ni iz za at ti io on ns    is    es ss se en nt ti ia al    to    ke ee ep pi in ng    ou ur    so oc ci ie et ty    fu un nc ct ti io on ni in ng    ev ve er ry yo on ne    al ls so    be en ne ef fi it ts    fr ro om    th he    wo or rk    of    cy yb be er rt th hr re ea at    re es se ea ar rc ch he er rs    li ik ke    th he    te ea am    of       th hr re ea at    re es se ea ar rc ch he er rs    at    ta al lo os    wh ho    in nv ve es st ti ig ga at te    ne ew    an nd    em me er rg gi in ng    th hr re ea at ts    an nd    cy yb be er    at tt ta ac ck    st tr ra at te eg gi ie es       th he ey    re ev ve ea al    ne ew    vu ul ln ne er ra ab bi il li it ti ie es    ed du uc ca at te    th he    pu ub bl li ic    on    th he    im mp po or rt ta an nc ce    of    cy yb be er rs se ec cu ur ri it ty    an nd    st tr re en ng gt th he en    op pe en    so ou ur rc ce    to oo ol ls    th he ei ir    wo or rk    ma ak ke es    th he    in nt te er rn ne et    sa af fe er    fo or    ev ve er ry yo on ne    ju un ni io or    qu ue ee en    do on nt    li ik ke    jo ok ke es    
+
+Map of bigramms in English :
+ 0 2 9 2 0 2 1 0 1 0 1 9 4 26 0 1 0 4 5 28 1 0 0 0 2 0 3 0 0 0 11 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 7 0 0 6 5 0 4 0 0 0 6 0 0 4 0 9 8 0 0 0 8 0 5 0 0 0 5 0 0 0 2 0 0 0 0 0 1 0 0 0 2 0 3 1 0 0 0 0 11 0 14 5 3 6 2 0 2 0 0 4 7 14 1 2 0 29 18 4 0 7 2 1 2 0 1 0 0 0 5 1 0 0 4 0 0 0 0 0 1 0 0 5 0 1 3 0 0 0 0 0 4 0 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 3 0 1 0 0 0 0 1 0 2 0 0 0 17 0 0 0 1 0 0 0 1 1 4 0 0 4 0 0 0 0 0 0 0 0 3 0 5 2 6 1 2 0 0 0 5 3 2 22 12 3 0 1 2 14 0 2 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 10 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 2 0 0 1 9 0 0 0 8 0 0 1 0 1 3 0 0 0 3 2 0 0 0 0 2 0 4 0 0 0 5 0 0 0 1 0 0 0 0 0 1 7 0 0 2 0 3 0 0 0 0 0 2 0 7 14 14 1 10 0 6 0 0 0 0 1 2 0 0 0 6 11 0 2 0 0 0 0 1 0 2 2 0 6 3 0 0 0 1 2 9 22 2 3 0 14 7 4 3 0 1 0 0 0 2 0 0 0 3 0 0 1 2 0 0 7 0 0 3 1 0 9 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 8 0 3 2 15 0 3 0 11 0 3 1 0 2 13 0 0 0 10 4 1 1 0 0 6 0 2 0 1 0 18 1 0 0 3 0 0 0 0 0 3 2 0 0 7 10 2 0 1 0 1 0 13 0 0 0 17 0 0 22 19 0 0 0 0 0 10 0 0 4 7 5 1 0 1 0 9 0 1 1 4 0 1 0 0 0 0 0 0 4 0 5 0 1 0 11 3 3 0 0 0 0 0 0 1 0 0 0 10 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 8 0 0 1 0 0 0 0 0 0 0 0 0 4 0 0 0 2 1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+The sum of all bigramms from English input text =  1059
+
+
+**************************************************************************************************************
+The array of words from France text -------> :
+
+
+
+
+vous
+avez
+vu
+ces
+phenomenes
+en
+optique
+geometrique
+
+lorsquon
+envoie
+de
+la
+lumiere
+sur
+un
+morceau
+de
+verre
+comme
+un
+prisme
+ou
+une
+lentille
+une
+partie
+penetre
+dans
+le
+verre
+une
+partie
+revient
+vers
+la
+source
+ce
+qui
+correspond
+respectivement
+a
+la
+lumiere
+refractee
+ou
+transmise
+et
+a
+la
+lumiere
+reflechie
+nous
+verrons
+lan
+prochain
+au
+s
+comment
+calculer
+la
+proportion
+de
+lumiere
+reflechie
+et
+de
+lumiere
+transmise
+nous
+allons
+faire
+sur
+lexemple
+de
+la
+corde
+un
+calcul
+completement
+similaire
+ainsi
+en
+optique
+les
+phenomenes
+de
+reflexiontransmission
+decoulent
+dun
+changement
+de
+milieu
+
+la
+lumiere
+se
+propage
+dans
+lair
+puis
+brutalement
+elle
+doit
+se
+propager
+dans
+le
+verre
+ici
+nous
+allons
+voir
+ce
+qui
+se
+passe
+lorsquune
+onde
+se
+propageant
+sur
+une
+premiere
+corde
+de
+masse
+lineique
+
+
+rencontre
+soudainement
+une
+deuxieme
+code
+de
+mase
+lineique
+
+
+par
+exemple
+cette
+situation
+est
+rencontree
+lorsquon
+attache
+une
+corde
+en
+nylon
+avec
+une
+corde
+en
+acier
+en
+acoustique
+le
+probleme
+se
+rencontre
+par
+exemple
+lorsquune
+onde
+se
+propage
+dans
+un
+tuyau
+sonore
+dont
+le
+diametre
+varie
+brutalement
+en
+resume
+
+chaque
+fois
+quon
+a
+une
+interface
+entre
+deux
+milieux
+differents
+entre
+un
+milieu
+
+et
+un
+milieu
+
+une
+onde
+progressive
+arrivant
+a
+linterface
+depuis
+le
+milieu
+
+va
+en
+partie
+se
+reflechir
+revenir
+vers
+sa
+source
+dans
+le
+milieu
+
+en
+partie
+se
+transmettre
+dans
+le
+milieu
+
+le
+but
+de
+ce
+paragraphe
+est
+de
+voir
+comment
+on
+raisonne
+sur
+lexemple
+de
+la
+corde
+vibrante
+pour
+calculer
+lamplitude
+de
+londe
+reflechie
+et
+celle
+de
+londe
+transmise
+en
+fonction
+de
+celle
+de
+londe
+incidente
+je
+mange
+kacha
+chaque
+weekend
+
+All BIGRAMMS from France text -------> : 
+
+            vo ou us    av ve ez    vu    ce es    ph he en no om me en ne es    en    op pt ti iq qu ue    ge eo om me et tr ri iq qu ue       lo or rs sq qu uo on    en nv vo oi ie    de    la    lu um mi ie er re    su ur    un    mo or rc ce ea au    de    ve er rr re    co om mm me    un    pr ri is sm me    ou    un ne    le en nt ti il ll le    un ne    pa ar rt ti ie    pe en ne et tr re    da an ns    le    ve er rr re    un ne    pa ar rt ti ie    re ev vi ie en nt    ve er rs    la    so ou ur rc ce    ce    qu ui    co or rr re es sp po on nd    re es sp pe ec ct ti iv ve em me en nt       la    lu um mi ie er re    re ef fr ra ac ct te ee    ou    tr ra an ns sm mi is se    et       la    lu um mi ie er re    re ef fl le ec ch hi ie    no ou us    ve er rr ro on ns    la an    pr ro oc ch ha ai in    au       co om mm me en nt    ca al lc cu ul le er    la    pr ro op po or rt ti io on    de    lu um mi ie er re    re ef fl le ec ch hi ie    et    de    lu um mi ie er re    tr ra an ns sm mi is se    no ou us    al ll lo on ns    fa ai ir re    su ur    le ex xe em mp pl le    de    la    co or rd de    un    ca al lc cu ul    co om mp pl le et te em me en nt    si im mi il la ai ir re    ai in ns si    en    op pt ti iq qu ue    le es    ph he en no om me en ne es    de    re ef fl le ex xi io on nt tr ra an ns sm mi is ss si io od de ec co ou ul le en nt    de ec co ou ul le en nt    du un    ch ha an ng ge em me en nt    de    mi il li ie eu       la    lu um mi ie er re    se    pr ro op pa ag ge    da an ns    la ai ir    pu ui is    br ru ut ta al le em me en nt    el ll le    do oi it    se    pr ro op pa ag ge er    da an ns    le    ve er rr re    ic ci    no ou us    al ll lo on ns    vo oi ir    ce    qu ui    se    pa as ss se    lo or rs sq qu uu un ne    on nd de    se    pr ro op pa ag ge ea an nt    su ur    un ne    pr re em mi ie er re    co or rd de    de    ma as ss se    li in ne ei iq qu ue          re en nc co on nt tr re    so ou ud da ai in ne em me en nt    un ne    de eu ux xi ie em me    co od de    de    ma as se    li in ne ei iq qu ue          pa ar    ex xe em mp pl le    ce et tt te    si it tu ua at ti io on    es st    re en nc co on nt tr re ee    lo or rs sq qu uo on    at tt ta ac ch he    un ne    co or rd de    en    ny yl lo on    av ve ec    un ne    co or rd de    en    ac ci ie er    en    ac co ou us st ti iq qu ue    le    pr ro ob bl le em me    se    re en nc co on nt tr re    pa ar    ex xe em mp pl le    lo or rs sq qu uu un ne    on nd de    se    pr ro op pa ag ge    da an ns    un    tu uy ya au    so on no or re    do on nt    le    di ia am me et tr re    va ar ri ie    br ru ut ta al le em me en nt    en    re es su um me       ch ha aq qu ue    fo oi is    qu uo on       un ne    in nt te er rf fa ac ce    en nt tr re    de eu ux    mi il li ie eu ux    di if ff fe er re en nt ts    en nt tr re    un    mi il li ie eu       et    un    mi il li ie eu       un ne    on nd de    pr ro og gr re es ss si iv ve    ar rr ri iv va an nt       li in nt te er rf fa ac ce    de ep pu ui is    le    mi il li ie eu       va    en    pa ar rt ti ie    se    re ef fl le ec ch hi ir    re ev ve en ni ir    ve er rs    sa    so ou ur rc ce    da an ns    le    mi il li ie eu       en    pa ar rt ti ie    se    tr ra an ns sm me et tt tr re    da an ns    le    mi il li ie eu       le    bu ut    de    ce    pa ar ra ag gr ra ap ph he    es st    de    vo oi ir    co om mm me en nt    on    ra ai is so on nn ne    su ur    le ex xe em mp pl le    de    la    co or rd de    vi ib br ra an nt te    po ou ur    ca al lc cu ul le er    la am mp pl li it tu ud de    de    lo on nd de    re ef fl le ec ch hi ie    et    ce el ll le    de    lo on nd de    tr ra an ns sm mi is se    en    fo on nc ct ti io on    de    ce el ll le    de    lo on nd de    in nc ci id de en nt te    je    ma an ng ge    ka ac ch ha    ch ha aq qu ue    we ee ek ke en nd    
+
+ 0 0 7 0 0 0 5 0 7 0 0 7 2 17 0 1 2 9 3 2 3 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 3 0 0 1 0 0 0 0 0 3 0 0 0 12 0 0 10 3 0 0 0 0 0 17 0 0 0 0 3 3 0 0 0 0 0 7 0 0 0 35 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 2 0 8 0 3 6 0 0 2 0 1 3 13 36 1 1 0 20 10 10 9 2 0 5 0 1 3 0 0 0 1 1 0 0 0 0 0 5 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 5 0 0 0 4 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 26 1 0 0 0 0 0 9 1 8 5 0 6 7 9 3 0 3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 0 3 0 33 0 0 0 11 0 0 6 0 0 10 0 0 0 0 0 6 0 0 0 0 0 3 0 0 0 18 0 0 0 19 0 0 0 3 0 1 6 0 0 0 0 0 0 0 0 0 0 0 0 5 8 18 0 2 0 1 0 0 0 0 1 6 0 0 0 15 26 0 1 0 0 1 0 0 1 1 2 0 0 1 0 5 0 0 0 7 26 0 7 0 13 0 0 13 0 0 0 0 0 12 0 0 0 2 0 0 3 0 0 0 6 0 0 3 0 0 10 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 10 0 3 5 38 2 0 0 4 0 0 0 0 0 9 0 0 6 6 5 2 0 0 0 0 0 1 0 0 0 14 0 0 0 5 0 0 0 6 0 5 2 4 0 4 3 5 0 0 0 0 0 3 0 0 0 7 0 0 0 12 0 0 0 0 0 0 0 0 14 1 3 3 0 0 0 0 0 1 0 0 2 8 0 0 0 4 0 0 5 7 18 3 0 0 7 5 3 2 0 0 3 1 0 3 0 0 0 11 0 0 0 2 0 0 0 0 0 4 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+The sum of all bigramms from France input text =  1050
+
+
+
+Part IV ***********************************************************************************
+Calculation of the Euclidean measure of the distance between the probability of the BIGGRAMS in texts 
+
+Euclidean measure for English and TEST BIGRAMMS:  0.0773938
+Euclidean measure for France and TEST BIGRAMMS:  0.0619283
+
+The Answer for Part IV -----> : Input text is France
+
+
+
+
+Part V ***********************************************************************************
+Neural Network 
+
+Final Hidden Weights
+[[  0.03  0.07  0.19  0.02  -0.41  0.53  0.57  0.39  0.64  0.11  0.27  -0.10  0.09  -0.12  0.18  0.69  0.09  0.51  0.12  0.75  0.28  0.32  0.80  0.28  0.32  0.26][  0.55  0.13  0.66  0.36  -0.55  0.49  1.02  0.48  0.31  0.95  0.81  0.60  0.01  0.26  0.30  0.34  0.67  0.64  0.85  0.29  0.70  0.45  0.53  0.02  0.73  0.14][  0.92  0.74  0.93  -0.15  -2.12  1.38  1.12  0.66  0.33  0.95  1.30  -1.09  -0.63  -0.17  0.66  -0.00  0.13  -0.19  1.46  2.22  -1.32  0.58  0.69  0.43  1.24  0.89][  2.18  0.83  1.24  0.18  -4.91  1.54  1.03  2.05  0.71  0.61  1.24  -2.06  -1.07  0.07  1.91  0.27  0.13  0.00  1.88  4.23  -1.63  0.14  1.35  -0.25  1.95  0.12][  0.05  -0.07  -0.29  0.41  1.55  -0.18  -0.07  0.30  0.58  0.33  0.21  1.44  1.16  0.43  0.09  0.70  0.50  0.99  -0.29  -0.94  1.47  0.50  0.36  0.98  -0.20  0.41][  1.08  1.31  1.00  0.42  -1.63  0.97  0.98  0.66  0.76  0.50  1.29  -0.78  0.28  0.06  1.39  0.26  -0.19  0.57  0.82  2.45  -0.93  0.50  0.63  0.67  1.44  0.60][  0.23  0.42  0.71  0.81  0.15  0.35  0.46  0.83  0.63  0.37  0.00  0.92  0.19  0.14  -0.00  0.44  0.61  0.52  -0.02  0.80  0.09  0.52  0.94  0.60  0.76  0.30][  1.42  0.40  1.15  0.68  -1.97  1.06  0.34  1.27  0.48  0.87  1.35  -0.67  -0.39  0.25  0.96  0.43  0.37  0.42  0.51  2.30  -0.59  0.44  0.87  0.56  1.49  0.57][  0.65  -0.04  0.41  0.99  0.62  0.55  0.65  0.50  0.03  0.31  0.52  0.39  0.57  0.46  -0.04  0.62  0.62  -0.03  0.50  0.45  0.30  0.40  0.14  0.87  0.42  0.22][  0.13  -0.25  -0.10  0.81  2.26  0.26  0.24  -0.23  0.21  0.43  -0.27  0.86  0.38  0.73  0.00  0.94  0.62  0.76  0.30  -1.09  1.14  0.12  0.16  0.15  -0.01  0.29][  -0.76  -0.05  0.27  0.78  3.72  -0.15  -0.29  -0.51  0.67  0.24  -0.00  2.02  0.78  0.45  0.29  1.02  0.97  1.24  -0.23  -1.30  2.42  0.92  -0.22  0.36  -0.23  0.07][  -0.20  0.05  0.04  0.67  3.81  -0.42  0.46  0.05  -0.18  0.94  -0.39  2.23  1.17  0.79  -0.69  0.82  0.60  0.57  -0.44  -2.38  2.18  0.33  0.35  0.96  -0.23  0.77][  -0.57  -0.03  0.13  0.85  4.61  -0.49  -0.47  -0.49  0.31  0.25  0.10  2.54  1.70  1.41  0.02  1.00  1.40  0.97  -0.66  -3.06  2.79  0.93  0.46  0.95  -1.29  0.08][  1.73  1.21  1.71  0.23  -4.25  1.14  1.51  1.12  0.78  0.79  1.38  -1.34  -0.33  0.13  1.10  0.25  -0.08  -0.21  1.30  3.88  -2.13  0.53  1.11  -0.13  2.08  0.34][  -0.22  0.38  0.20  0.21  2.15  0.53  0.46  0.14  0.31  0.55  0.38  1.39  0.87  1.03  -0.14  0.46  0.86  0.27  0.03  -0.67  1.24  0.60  -0.16  0.19  -0.13  0.77]]
+
+Final Hidden Biases
+[   -0.74  -0.89  -0.09  0.03  -0.58  -0.43  -1.24  -0.34  -1.23  -0.57  -0.89  -0.71  -0.98  0.02  -0.65]
+
+Final Output Weights
+[ 0.68  0.58  4.26  8.03  -2.70  3.68  0.16  3.65  -0.27  -2.82  -4.91  -5.38  -7.00  7.07  -2.64 ]
+
+Final Output Biases
+[   -0.38 ]
+
+Check model :
+
+The Answer for Part V -----> : Input text is France, probability of text = 0.845
+
+
+
+The end :-)
